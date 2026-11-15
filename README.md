@@ -1,1 +1,1 @@
-# devops
+Simple Google Colab workshop demonstrating functional and performance testing of a banking API using Python, Flask, and Apache JMeter. Includes automated test execution, response-time analysis, and HTML reporting.
