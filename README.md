@@ -1,8 +1,6 @@
 # DevOps, Software Testing & Engineering Labs
 
-A collection of small projects, practical experiments, workshops, and technical demonstrations covering DevOps, software engineering, IT governance, automation, and technology.
-
-This repository serves as a hands-on learning space for exploring different technologies, building prototypes, testing applications, and experimenting with practical IT solutions.
+A collection of small projects, practical experiments, workshops, and technical demonstrations covering DevOps, software engineering, IT governance, automation, and technology. This repository serves as a hands-on learning space for exploring different technologies, building prototypes, testing applications, and experimenting with practical IT solutions.
 
 ## Areas of Exploration
 
